@@ -113,28 +113,3 @@ PIPELINE SUMMARY
               v               v               v
          KNOWN ATTACK    BORDERLINE       ZERO-DAY
          (fast path)   (LLM escalation)     alert
-
--------------------------------------------------------------------
-
-CITATION
--------------------------------------------------------------------
-
-@inproceedings{lira2027hierarchical,
-  title={Hierarchical AI-Driven Security Management for Open-World
-         Intrusion Detection with Uncertainty-Aware Selective Escalation},
-  author={Lira, Oscar G. and Marroquin, Alberto and To, Marco Antonio},
-  booktitle={Proc. IEEE/IFIP Network Operations and Management Symposium
-             (NOMS)},
-  year={2027}
-}
-
--------------------------------------------------------------------
-
-ACKNOWLEDGMENTS
--------------------------------------------------------------------
-
-- Hugging Face Transformers
-- FAISS
-- Ollama
-- UNSW-NB15 dataset
-- Google Colab
